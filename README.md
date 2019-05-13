@@ -4,7 +4,7 @@ Web application ( Chat Room ) made using pure PHP.
 
 # Requirements
 
-- PHP 5+ / Mysql Server
+- PHP 5+ / Mysql
 
 # Database Script
 
